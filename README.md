@@ -1,4 +1,8 @@
 # nodeTypescript
-Basic node-typescript starter
+#### _Simple project to fork from to begin a new node typescript project_
 
-### Simple project to fork from to begin a new node typescript project
+
+## Start command
+```
+npm run start
+```
